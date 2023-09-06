@@ -4,7 +4,8 @@
 
 
 
-- 🔭 I’m currently working on [Energy Efficient High Performance Machine Learning Algorithms](https://github.com/Notmeher/Energy-Efficient-High-Performance-Machine-Learning-Algorithms)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+- 🔭 I’m currently working on [Energy Efficient High-Performance Machine Learning Algorithms](https://github.com/Notmeher/Energy-Efficient-High-Performance-Machine-Learning-Algorithms)
 
 - 🌱 I’m currently learning **Data science & Machine learning**
 
@@ -16,7 +17,8 @@
 
 - ⚡ Fun fact **I think I have a good sense of Humor ^_^**
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+
+
 
 # 💫 About Me:
 Hello, I am Mehedi, a student at North South University.Since childhood, I have loved technology and am incredibly interested in this field.As a Computer Science graduate and experienced content writer with a background in computer science, I have developed a versatile skill set that has helped me adapt to changing industry demands. While my experience has been diverse, I am currently devoted to becoming a machine learning engineer, as this field has the potential to revolutionize the way we approach problem-solving. One of my greatest strengths is learning and quickly assimilating new information. 
