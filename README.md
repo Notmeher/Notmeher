@@ -40,5 +40,6 @@ Hello, I am Mehedi, a student at North South University.<br>Since childhood, I h
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Notmeher&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/Notmeher/Notmeher/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
