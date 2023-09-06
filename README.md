@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Nipu</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from Bangladeshh</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/Notmeher/Notmeher/main/Banner.png"> </div>
+
+
+
 - 🔭 I’m currently working on [Energy Efficient High Performance Machine Learning Algorithms](https://github.com/Notmeher/Energy-Efficient-High-Performance-Machine-Learning-Algorithms)
 
 - 🌱 I’m currently learning **Data science & Machine learning**
@@ -13,10 +16,10 @@
 
 - ⚡ Fun fact **I think I have a good sense of Humor ^_^**
 
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 # 💫 About Me:
-Hello, I am Mehedi, a student at North South University.<br>Since childhood, I have loved technology and am incredibly interested in this field.<br>As a Computer Science graduate and experienced content writer with a background in computer science, I have developed a versatile skill set that has helped me adapt to changing industry demands. <br>While my experience has been diverse, I am currently devoted to becoming a machine learning engineer, as this field has the potential to revolutionize the way we approach problem-solving. <br>One of my greatest strengths is learning and quickly assimilating new information. <br>This has helped me stay ahead of the curve and be relevant in the constantly evolving tech industry. I am also a team-oriented person who thrives in collaborative environments and enjoys working with others to achieve shared goals.<br>I honed and developed strong communication and project management skills in previous roles. My diverse background and passion for computer science will make me a valuable asset to any team with technical skills.<br>I look forward to taking on new challenges and contributing to advancing this exciting field.
+Hello, I am Mehedi, a student at North South University.Since childhood, I have loved technology and am incredibly interested in this field.As a Computer Science graduate and experienced content writer with a background in computer science, I have developed a versatile skill set that has helped me adapt to changing industry demands. While my experience has been diverse, I am currently devoted to becoming a machine learning engineer, as this field has the potential to revolutionize the way we approach problem-solving. One of my greatest strengths is learning and quickly assimilating new information. 
 
 
 ## 🌐 Socials:
