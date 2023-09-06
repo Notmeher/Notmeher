@@ -34,8 +34,7 @@ Hello, I am Mehedi, a student at North South University.Since childhood, I have 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Notmeher&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Notmeher&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Notmeher&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
