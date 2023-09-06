@@ -35,7 +35,7 @@ Hello, I am Mehedi, a student at North South University.Since childhood, I have 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Notmeher&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
