@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Nipu</h1>
-<img src="https://raw.githubusercontent.com/Notmeher/Notmeher/main/Wave.gif" width="30px"></p>
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/Notmeher/Notmeher/main/Wave.gif" width="30px"> I'm Mehedi Hasan Nipu</h1>
+I am an undergrad from the ECE department at [North South University](http://www.northsouth.edu/).
 
 <h3 align="center">A passionate Machine Learning Enthusiast from Bangladeshh</h3>
-
-
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mynameisnipu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lifeasmeher) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notmeher4459) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lifeasmeher) 
 
