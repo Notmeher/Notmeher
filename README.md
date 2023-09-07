@@ -44,7 +44,6 @@ Hello, I am Mehedi, a student at North South University.Since childhood, I have 
 
 
 
-
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
